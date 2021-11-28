@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Mohammad_Ali_Walid_lab8Context"
+    }
+  }
+}
